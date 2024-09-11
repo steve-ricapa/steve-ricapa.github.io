@@ -34,7 +34,7 @@ var lyricsData = [
 
     { "text": "For the Beautiful Girl of this World 🌎 ", "time": 165 },
     { "text": "Andrea...", "time": 171 },
-    { "text": "Feliz 21", "time": 175 }
+    { "text": "Feliz 21", "time": 173 }
 
 
 
